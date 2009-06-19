@@ -1,0 +1,56 @@
+Title
+Secrets in the Sword
+Blade's Dream
+The Game
+Game in the Trainer
+The Eye of the Dream
+The Rising Twins
+Sparks of Force
+The Courage of Souls
+The Twilight's Souls
+Blade of Storms
+The game will randomly generate one of these titles at our title screen.
+
+Short Description
+Game Engine: Python
+Level Design/Graphics: SVG/CSS
+Level Scripting: JavaScript(TODO: learn how to expose an API to JavaScript)
+Version Control: Git, Github
+SFX: Mute
+
+
+Game Type/Genre
+Platformer.
+
+
+Scenario
+What is the setting of the game...
+
+
+Long description
+Tell the story of the game, a high level walkthrough in words of characters, locations, tasks etc. that the player will encounter as they progress through the game...
+
+
+Game System
+What rules does the game implement? What objects need to be defined, what events need to be raised, and what actions are fired for each event?
+It may be useful to break the objects down into subcategories - player character, 'non-player characters' (e.g. 'monsters'), room objects (walls, doors), scoring/health objects (treasure, fuel pellets, first aid kits etc.), controller objects etc.
+
+
+Narrative Structure
+How is the story structured? Draw the plotline using a graph to show how major story events are connected to each other...
+
+
+Game Play
+Describe the mechanics of how the player actually plays the game; include a subsection describing the user controls and how these relate to user actions (keyobard/gamepad controls).
+
+
+Room Map
+How are the rooms structured or ordered? Provide a map of the 'physical layout' of game world showing how different physical locations or rooms are ordered and/or connect to each other.
+
+
+Title and Information Screens
+Describe the organisation and navigation structures surrounding the 'non-game' pages:the title page, the end game page, the help page, high score page...
+
+
+Audio Requirements
+What are the audio requirements of the game? Background music, alert sounds for particular events or actions, general backbround noise?
